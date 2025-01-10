@@ -1,8 +1,3 @@
-# Horrorgames
-official Githib of the Horrorgames Modpack
+Github of all the Mods, Packs and other Minecraft Projects by Hannuta96
 
-You can download the Modpack on Modrinth https://modrinth.com/modpack/horrorgames
-
-
-this Github ist mostly for reporting issues
-thanks
+https://modrinth.com/user/Hannuta96
